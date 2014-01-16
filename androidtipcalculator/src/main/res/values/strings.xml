@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidTipCalculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn10PercentValueString">10%</string>
+    <string name="btn15PercentValueString">15%</string>
+    <string name="btn20PercentValueString">20%</string>
+    <string name="tvEnterCostString">Enter Cost: $1 - $1000000</string>
+    <string name="tvFinalTipDescriptionString">Tip:</string>
+    <string name="tvUnknownValueString">Unknown</string>
+    <string name="tvTotalDescriptionString">Total:</string>
+    <string name="tvInvalidValueEnteredString">The cost you entered is not valid</string>
+    <string name="btnClearInputString">Clear Input</string>
+
+</resources>
